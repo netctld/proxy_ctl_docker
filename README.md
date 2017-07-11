@@ -12,7 +12,7 @@ proxy_ctl_docker contains:
 ## Build proxy_ctl_docker
 
 ```
-git clone git@github.com:netctld/proxy_ctl_docker.git
+git clone https://github.com/netctld/proxy_ctl_docker.git
 cd proxy_ctl_docker
 docker build -t proxy_ctl_docker .
 ```
